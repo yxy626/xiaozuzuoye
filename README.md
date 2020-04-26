@@ -22,5 +22,5 @@
 
 ### ER流程图
 
-![1587910363859](C:\Users\oysd\AppData\Roaming\Typora\typora-user-images\1587910363859.png)
+![1587910363859](https://github.com/yxy626/xiaozuzuoye/blob/master/%E5%9B%BE.png)
 
