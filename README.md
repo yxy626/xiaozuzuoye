@@ -22,5 +22,5 @@
 
 ### ER流程图
 
-(https://github.com/yxy626/xiaozuzuoye/blob/master/image.png)
+![avatar](https://github.com/yxy626/xiaozuzuoye/blob/master/image.png)
 
