@@ -22,5 +22,5 @@
 
 ### ER流程图
 
-![avatar](image.png)
+![](image.png)
 
